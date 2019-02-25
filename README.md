@@ -1,5 +1,5 @@
-# Pos + JPA
-Pos System created Using layered architecture and JPA 
+# Pos with JPA and Spring
+Pos System created Using layered architecture,JPA and spring
 ## Technologies Used
 * Mysql
 * JavaFx
